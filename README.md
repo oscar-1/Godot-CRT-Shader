@@ -1,9 +1,12 @@
 # CRT Shader
  CRT Shader
-https://github.com/oscar-1/CRT-Shader/blob/master/Images/ScanLines.PNG
+ 
+ 
+ 
+![image](https://github.com/oscar-1/CRT-Shader/blob/master/Images/ScanLines.PNG?raw=true)
 
-https://github.com/oscar-1/CRT-Shader/blob/master/Images/Blur.PNG
+![image](https://github.com/oscar-1/CRT-Shader/blob/master/Images/Blur.PNG?raw=true)
 
-https://github.com/oscar-1/CRT-Shader/blob/master/Images/Grid.PNG
+![image](https://github.com/oscar-1/CRT-Shader/blob/master/Images/Grid.PNG?raw=true)
 
-https://github.com/oscar-1/CRT-Shader/blob/master/Images/RGB.PNG
+![image](https://github.com/oscar-1/CRT-Shader/blob/master/Images/RGB.PNG?raw=true)
