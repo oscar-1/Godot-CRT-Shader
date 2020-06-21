@@ -1,5 +1,4 @@
-# CRT Shader
- CRT Shader
+# Godot CRT Shader
  
 This shader tries to imitate de view of a Cathode-Ray Tube. Can be useful for retro games.
 It works on Godot 3.2 and needs GLES3 if you use the blur effect.
